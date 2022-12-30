@@ -16,8 +16,8 @@ char auth[] = "222cc4afd9a8475fbc7ddeb5210f0e0c"; //Enter the Auth code which wa
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "teplota";  //Enter your WIFI Name
-char pass[] = "iot2018home";  //Enter your WIFI Password
+char ssid[] = "";  //Enter your WIFI Name
+char pass[] = "";  //Enter your WIFI Password
 
 
 SimpleTimer timer;

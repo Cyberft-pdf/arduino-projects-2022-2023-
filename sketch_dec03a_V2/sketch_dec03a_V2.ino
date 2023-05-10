@@ -19,7 +19,7 @@ char auth[] = "222cc4afd9a8475fbc7ddeb5210f0e0c"; //Enter the Auth code which wa
 char ssid[] = "";  //Enter your WIFI Name
 char pass[] = "";  //Enter your WIFI Password
 
-
+//code by cyberft-pdf on github
 SimpleTimer timer;
 
 

@@ -16,6 +16,7 @@ OLED display(4, 5);
 
 
 // You should get Auth Token in the Blynk App.
+//code made by cyberft-pdf
 // Go to the Project Settings (nut icon).
 char auth[] = "222cc4afd9a8475fbc7ddeb5210f0e0c"; //Enter the Auth code which was send by Blink asi senzor kotel
 

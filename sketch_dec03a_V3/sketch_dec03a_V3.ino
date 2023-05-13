@@ -30,7 +30,7 @@ void setup()
   Blynk.begin(auth, ssid, pass, IPAddress(192, 168, 197, 70), 8080);
   
 }
-
+// code mady by cyberft-pdf
 
 void loop()
 {
